@@ -1,0 +1,21 @@
+company,role,min_cgpa,max_backlogs,branches_allowed,required_skills,package_lpa,category
+TCS,Assistant System Engineer,6.0,1,All,"Data Structures,Java,SQL,Communication Skills",3.5,Service
+Infosys,Systems Engineer,6.5,1,All,"Java,Python,DBMS,Communication Skills",4.0,Service
+Wipro,Project Engineer,6.0,2,All,"C++,Data Structures,Operating Systems",3.8,Service
+Cognizant,Programmer Analyst,6.0,1,All,"Java,SQL,Problem Solving",4.0,Service
+Accenture,Associate Software Engineer,6.5,1,All,"Java,Python,Communication Skills,Agile",4.5,Service
+Capgemini,Software Engineer,6.0,1,All,"C++,Java,DBMS",4.2,Service
+TechMahindra,Software Engineer,6.0,2,All,"Java,Networking,Communication Skills",3.6,Service
+HCL,Software Engineer,6.0,1,All,"C,Data Structures,SQL",4.0,Service
+Amazon,SDE-1,7.5,0,CSE/IT/ECE,"Data Structures,Algorithms,System Design,Java,Python",18.0,Product
+Microsoft,SDE-1,7.5,0,CSE/IT,"Data Structures,Algorithms,C++,System Design,Operating Systems",22.0,Product
+Google,SWE,8.0,0,CSE/IT,"Data Structures,Algorithms,System Design,Python,Computer Networks",25.0,Product
+Adobe,Member Technical Staff,7.5,0,CSE/IT,"Data Structures,Algorithms,Java,Problem Solving",20.0,Product
+Flipkart,SDE-1,7.0,0,CSE/IT,"Data Structures,Algorithms,Java,REST API",16.0,Product
+Deloitte,Analyst,6.5,1,All,"Excel,SQL,Communication Skills,Data Analysis",6.0,Consulting
+Zoho,Software Developer,6.5,0,CSE/IT,"Java,C++,Data Structures,DBMS",6.5,Product
+Mu Sigma,Data Analyst,6.5,1,All,"Python,Statistics,Data Analysis,SQL",7.0,Analytics
+Fractal Analytics,Data Scientist,7.0,0,CSE/IT/ECE,"Python,Machine Learning,Statistics,SQL,Pandas",9.0,Analytics
+Tredence,Business Analyst,6.5,1,All,"SQL,Power BI,Excel,Data Analysis",8.0,Analytics
+LTIMindtree,Software Engineer,6.0,1,All,"Java,SQL,Data Structures",4.0,Service
+Persistent Systems,Software Engineer,6.5,1,CSE/IT,"Java,Python,Data Structures,Git",5.5,Service
