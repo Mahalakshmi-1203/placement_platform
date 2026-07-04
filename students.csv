@@ -1,0 +1,401 @@
+student_id,name,branch,cgpa,backlogs,skills,projects,internships,certifications,communication_score,placed
+1,Ishaan Sharma,CIVIL,6.68,0,MySQL;Flutter;Leadership;Git;SQL;AWS;React;C++;Java;Cybersecurity;DBMS;OOP;Flask;Azure,0,1,5,9,1
+2,Priya Pillai,CSE,8.76,0,Scikit-learn;NLP;Data Structures;DBMS;Spring Boot;MySQL;SQL;Tableau;Communication Skills,2,2,4,5,1
+3,Vivaan Das,EEE,7.81,3,SQL;Docker;Data Analysis;Linux;GCP;Power BI;Kubernetes;Computer Networks;JavaScript,0,1,2,2,0
+4,Nikhil Nair,EEE,8.23,0,TensorFlow;DBMS;Kotlin;NLP;System Design;Flutter;Android;JavaScript,4,1,4,4,1
+5,Ananya Rao,EEE,6.66,3,Docker;OOP;Flutter;NumPy;C;Testing;C++;Agile;Excel;NLP;JavaScript;DBMS;Kubernetes;System Design,1,3,3,8,1
+6,Neha Patel,ECE,8.71,0,Excel;Power BI;OOP;PostgreSQL;Flask;Django;SQL;C;MongoDB;Data Structures;Linux;Algorithms,6,3,4,2,1
+7,Nikhil Menon,MECH,9.78,0,Python;Flutter;Communication Skills;MongoDB;Testing;Git;NLP;Android;Scikit-learn;Agile;Data Analysis,3,1,3,1,1
+8,Priya Patel,IT,7.68,0,Pandas;Linux;Flask;Azure;Computer Networks;Data Structures;Power BI;Algorithms;Git;REST API;Python;Agile;NumPy,3,0,0,6,1
+9,Rohan Reddy,CSE,6.54,0,SQL;Communication Skills;Django;JavaScript,6,1,1,8,1
+10,Rahul Joshi,MECH,7.32,0,Agile;Communication Skills;System Design;Computer Networks;Problem Solving;Pandas;Excel;Kotlin;Android;Power BI;Node.js,4,3,0,4,1
+11,Meera Verma,ECE,5.59,0,OOP;Python;JavaScript;Problem Solving;Linux;C;Spring Boot;Cybersecurity;C++;Scikit-learn;System Design;Flask,1,2,5,8,1
+12,Karthik Singh,EEE,6.54,0,Computer Networks;MySQL;Testing;Kotlin;React;TensorFlow;Leadership;Statistics;HTML,6,0,5,2,1
+13,Vivaan Menon,CIVIL,6.96,2,Computer Networks;Spring Boot;Git;Node.js;PostgreSQL;React,1,2,3,4,0
+14,Neha Verma,CSE,8.3,0,SQL;Agile;Machine Learning,1,3,3,8,1
+15,Diya Joshi,EEE,9.38,0,Tableau;Deep Learning;Testing,6,3,2,7,1
+16,Neha Kumar,CIVIL,7.59,0,C;AWS;Leadership;Git;Spring Boot;NumPy,0,0,4,8,0
+17,Rahul Chatterjee,MECH,6.18,3,Operating Systems;JavaScript;Azure;Flutter,6,1,3,2,0
+18,Karthik Singh,CSE,8.16,0,Kubernetes;REST API;NumPy;Deep Learning;DBMS;Kotlin;Problem Solving;Cybersecurity;Machine Learning;Agile;Excel;PostgreSQL,5,2,3,6,1
+19,Aditya Sharma,EEE,8.17,0,JavaScript;Git;DBMS;Flask,2,1,2,2,1
+20,Ananya Rao,MECH,8.53,1,REST API;Python;Kotlin;Docker;Pandas;Cybersecurity;MySQL;PostgreSQL;Deep Learning;MongoDB;Problem Solving;Agile;Data Structures,2,2,4,4,1
+21,Sanjay Reddy,CIVIL,8.23,0,Deep Learning;C;SQL;Linux;React;NLP;C++;Python;Scikit-learn;PostgreSQL,5,2,1,8,1
+22,Aarav Verma,CSE,9.56,1,Git;C++;Power BI;AWS;Docker,1,3,1,1,1
+23,Rohan Gupta,CSE,9.37,0,Kotlin;MySQL;TensorFlow;Docker;Statistics;GCP,5,1,1,3,1
+24,Pooja Sharma,IT,8.67,0,Spring Boot;Kotlin;Leadership;Machine Learning;NLP;Algorithms;System Design;MySQL;Tableau,6,0,3,4,1
+25,Diya Joshi,EEE,7.0,2,OOP;Java;Kotlin;Computer Networks;Excel;Scikit-learn,2,0,2,6,0
+26,Neha Gupta,CSE,6.0,3,AWS;Deep Learning;C++;MySQL;Azure,3,2,5,6,0
+27,Pooja Singh,MECH,6.0,2,Deep Learning;C++;Problem Solving;React;Python;REST API,6,1,2,7,1
+28,Sanjay Singh,ECE,8.35,0,Flask;Pandas;Kotlin;Statistics;NumPy;Excel;System Design,2,1,1,7,1
+29,Nikhil Kumar,CIVIL,9.38,1,Excel;Docker;Python;Pandas;Data Analysis;DBMS;React,6,2,3,8,1
+30,Sneha Pillai,CIVIL,6.23,0,Kotlin;Linux;GCP;Scikit-learn;SQL;Machine Learning;Flutter;Pandas;OOP;Computer Networks;Data Structures,0,0,1,8,1
+31,Divya Joshi,CSE,7.46,2,Computer Networks;Problem Solving;System Design;Tableau;Django;Excel;Machine Learning;Data Structures;Android;Python;MySQL;React,1,1,5,9,1
+32,Ishaan Rao,IT,8.95,1,Azure;NumPy;Agile;Node.js;GCP;Communication Skills;Flask;React;Docker;Cybersecurity;Algorithms,5,3,3,5,1
+33,Meera Joshi,CIVIL,6.69,1,Linux;Machine Learning;NLP;Node.js;JavaScript;Problem Solving;Data Analysis;Testing;Cybersecurity;Scikit-learn,2,0,1,3,0
+34,Diya Verma,EEE,7.25,0,C;DBMS;Statistics;Tableau;AWS;System Design;Java;Kubernetes;Agile,3,0,2,5,1
+35,Nikhil Joshi,EEE,7.81,1,OOP;Django;Spring Boot;NLP;React;Testing;Java;Tableau;Scikit-learn;Kotlin;Excel;Algorithms,6,3,1,10,1
+36,Karthik Singh,CIVIL,5.62,1,HTML;Operating Systems;C;Deep Learning;Tableau,2,1,3,6,0
+37,Sanjay Pillai,EEE,6.7,3,Deep Learning;SQL;CSS;Java;Leadership;Git;C;TensorFlow;OOP,5,0,5,1,0
+38,Diya Joshi,CSE,8.17,0,Kotlin;MongoDB;Kubernetes;DBMS;HTML;System Design;Deep Learning;Power BI;Algorithms;Azure,4,0,1,5,0
+39,Ishaan Singh,CSE,9.49,0,Excel;Problem Solving;Computer Networks;JavaScript;AWS;System Design;Linux;Machine Learning;MySQL,5,2,5,10,1
+40,Karthik Pillai,CSE,6.99,0,JavaScript;Flask;Android;Scikit-learn;Python;Statistics;Django;MySQL,3,2,5,8,1
+41,Kabir Menon,IT,8.66,3,GCP;Git;Cybersecurity;CSS;HTML;React;AWS,2,2,1,2,0
+42,Arjun Singh,MECH,8.37,0,NumPy;Operating Systems;Django;DBMS;TensorFlow;Deep Learning;Scikit-learn;NLP;Azure;System Design,4,0,4,4,1
+43,Aditya Reddy,CIVIL,7.25,0,System Design;CSS;Android;Problem Solving;Django;Node.js,6,0,0,5,1
+44,Rohan Kumar,MECH,7.09,0,React;Leadership;Docker;Scikit-learn;TensorFlow;System Design;HTML;NLP,2,2,1,2,1
+45,Diya Gupta,CSE,8.69,3,Operating Systems;Computer Networks;DBMS;Leadership;CSS;NLP;AWS;REST API;Azure;Data Analysis;MySQL;Testing;Kotlin;OOP,2,1,2,1,1
+46,Vivaan Sharma,MECH,6.76,3,Agile;Django;MySQL;Python;Kubernetes;Data Analysis;CSS;Problem Solving;Node.js;Scikit-learn;Operating Systems;C;Deep Learning,6,3,0,2,1
+47,Nikhil Rao,CSE,7.98,1,Data Structures;Spring Boot;Kubernetes;Pandas;SQL,1,0,4,7,0
+48,Meera Pillai,MECH,7.14,2,AWS;React;Pandas;Kubernetes;GCP;C;Leadership,5,0,1,4,0
+49,Priya Kumar,CSE,6.18,0,Algorithms;Python;Statistics;Node.js,5,3,2,1,0
+50,Arjun Verma,CIVIL,6.5,0,AWS;Kotlin;Computer Networks;React;MongoDB;Git;OOP;Android;Data Structures;NLP;Flutter;JavaScript;C,1,2,4,10,1
+51,Rohan Rao,CSE,7.52,0,NLP;Flask;Git;Django;Node.js;SQL;Azure;C++;React,5,2,4,5,1
+52,Karthik Singh,CSE,9.8,1,Kubernetes;C++;Agile;Cybersecurity;Operating Systems;CSS;REST API,5,3,2,3,1
+53,Karthik Menon,CIVIL,9.0,3,TensorFlow;Statistics;Scikit-learn;NumPy;Kotlin;MySQL;Algorithms;Cybersecurity;Testing;Django,2,3,4,1,1
+54,Sanjay Verma,EEE,9.22,2,Kotlin;Git;HTML,3,0,1,9,1
+55,Kavya Singh,EEE,8.19,1,NLP;Docker;PostgreSQL;Data Analysis;Node.js;System Design,3,0,0,10,1
+56,Rohan Patel,CSE,7.87,0,HTML;MongoDB;Android;Data Structures,3,2,4,5,1
+57,Pooja Joshi,EEE,9.72,0,Data Structures;Tableau;Computer Networks;Azure;Flask;PostgreSQL;JavaScript;NLP;Statistics;Scikit-learn;Leadership,2,0,2,5,1
+58,Sneha Joshi,IT,7.42,0,Docker;Agile;Git;Tableau;HTML;NumPy;Computer Networks;System Design,1,3,1,7,1
+59,Vivaan Gupta,CIVIL,7.53,2,Tableau;Kotlin;Android;Data Structures;Django;C++;PostgreSQL;Flask;AWS,2,0,3,2,0
+60,Kabir Menon,CIVIL,9.67,0,Scikit-learn;GCP;System Design;Excel;Android;SQL;Spring Boot,6,3,2,8,1
+61,Neha Sharma,MECH,5.79,1,OOP;Leadership;SQL;React;MySQL;Linux;Problem Solving,6,0,3,3,0
+62,Vivaan Gupta,CSE,6.76,0,Machine Learning;REST API;Statistics;Kubernetes;Flutter,6,1,1,3,0
+63,Aditya Singh,EEE,8.16,0,Data Structures;OOP;HTML;Linux;Deep Learning;Cybersecurity;Leadership;Kotlin;Python;Communication Skills;Data Analysis;Git,1,0,3,6,1
+64,Pooja Das,ECE,7.46,0,CSS;MySQL;Machine Learning;Tableau;Kubernetes;TensorFlow;Leadership;Data Analysis;System Design,0,3,2,1,1
+65,Karthik Joshi,CIVIL,8.85,3,Leadership;Django;Data Analysis;OOP;Azure;TensorFlow;Agile;Linux;Computer Networks;GCP;Deep Learning;PostgreSQL,5,0,5,1,1
+66,Karthik Gupta,CIVIL,6.07,2,Leadership;Statistics;Operating Systems;Computer Networks;PostgreSQL;Git;Power BI;REST API,4,2,1,5,1
+67,Sneha Pillai,ECE,8.71,0,HTML;JavaScript;Data Structures;Agile,1,3,4,6,1
+68,Priya Patel,CSE,7.46,1,Deep Learning;AWS;Tableau;Linux;Power BI;MySQL;Flutter;OOP;CSS;Java;GCP;Docker;NumPy,4,1,5,2,1
+69,Arjun Chatterjee,CIVIL,6.8,0,C++;Pandas;Django;MongoDB;MySQL,1,1,3,8,0
+70,Neha Menon,MECH,8.69,0,Android;MySQL;Django;GCP;Statistics;NLP;C++;System Design;Power BI,1,3,3,4,1
+71,Kavya Verma,CIVIL,7.08,2,TensorFlow;C;Excel;NLP;Computer Networks;MongoDB;HTML;SQL;Kotlin;DBMS;Android;Linux;Azure,0,0,2,4,1
+72,Diya Verma,MECH,6.39,0,Scikit-learn;Cybersecurity;Data Structures;Azure;Python;NLP,6,1,1,9,1
+73,Priya Pillai,IT,5.97,2,Python;TensorFlow;Testing;Machine Learning;AWS,2,0,1,5,0
+74,Rahul Verma,CIVIL,5.77,0,Flask;AWS;MySQL;Node.js;Spring Boot;OOP;GCP;C++,5,2,3,1,1
+75,Vivaan Rao,EEE,7.33,0,Node.js;JavaScript;SQL;NumPy;Azure;Data Structures;Testing;PostgreSQL;NLP;GCP;Linux;AWS;Docker;Agile,3,2,3,9,1
+76,Ishaan Joshi,CIVIL,8.3,1,DBMS;React;Node.js;OOP;Statistics;Scikit-learn;HTML;Excel;Leadership;MySQL;NumPy;Testing;Android;Deep Learning,2,1,5,8,1
+77,Aditya Verma,CSE,5.9,0,Power BI;PostgreSQL;Docker;C;AWS;Cybersecurity;Communication Skills;Scikit-learn;Kotlin;MongoDB;Statistics;TensorFlow;React;Agile,2,2,2,2,0
+78,Sneha Reddy,CSE,7.01,0,Agile;NLP;Kubernetes;OOP,6,3,4,10,1
+79,Divya Kumar,CIVIL,7.89,1,System Design;NLP;Java;Operating Systems;Testing;Spring Boot;Pandas;Scikit-learn;TensorFlow;Python;Agile;Data Structures;Kubernetes,5,3,0,3,1
+80,Aditya Das,MECH,6.43,0,Algorithms;Power BI;Pandas;Communication Skills;NumPy;Kubernetes;Azure;SQL,0,1,1,10,0
+81,Vivaan Kumar,CSE,6.67,1,Azure;Node.js;Statistics;NLP;DBMS;Flask;MongoDB;TensorFlow;React;Problem Solving,2,3,4,5,1
+82,Divya Sharma,CSE,6.38,3,Agile;Deep Learning;Data Analysis;NumPy;MongoDB,0,3,5,7,0
+83,Ananya Iyer,EEE,7.79,0,Kotlin;TensorFlow;JavaScript;Excel;Leadership;C++;React;Java;HTML;Cybersecurity;NumPy,4,3,4,7,1
+84,Ishaan Menon,CSE,9.65,0,HTML;System Design;Power BI;SQL;React;MySQL;Machine Learning;Leadership;AWS;Excel;REST API;Agile,3,2,5,6,1
+85,Meera Gupta,IT,5.83,1,Flask;Computer Networks;Cybersecurity;TensorFlow;Agile;Communication Skills;Android;Data Structures;Machine Learning;MySQL;System Design,2,1,1,10,1
+86,Aditya Iyer,CIVIL,7.62,1,Node.js;Flutter;Kubernetes;Android;Linux;GCP;NumPy;Leadership;Problem Solving;Data Structures;Spring Boot;JavaScript,3,3,5,5,1
+87,Priya Singh,CSE,7.01,0,Node.js;C++;C;Power BI;Data Analysis;JavaScript;Android;SQL;GCP;Azure,4,3,3,10,1
+88,Vivaan Rao,MECH,8.3,0,Flask;Data Structures;C;Node.js;MySQL;Scikit-learn;Problem Solving;SQL;Spring Boot;Android,1,0,1,8,1
+89,Arjun Patel,MECH,8.12,0,Tableau;Statistics;Cybersecurity;Scikit-learn;Flutter;Azure;C,6,2,0,6,1
+90,Rohan Nair,CIVIL,9.16,3,Data Structures;Scikit-learn;SQL;AWS;Kotlin;Spring Boot;TensorFlow;Pandas;Android;Leadership;Excel;PostgreSQL,4,0,2,9,1
+91,Nikhil Kumar,ECE,9.0,1,Flutter;REST API;SQL;Android;Kotlin;React;Flask;Power BI;Java;System Design;Pandas;Operating Systems;DBMS;Scikit-learn,6,3,1,4,1
+92,Rohan Joshi,CSE,7.68,0,REST API;C++;Kotlin;Scikit-learn;GCP;PostgreSQL;Azure;Tableau;Data Structures;Algorithms;Operating Systems;Leadership;Cybersecurity;Node.js,0,3,2,4,1
+93,Arjun Singh,ECE,8.74,1,Git;Machine Learning;Pandas;CSS;Computer Networks;Power BI,5,3,3,5,1
+94,Pooja Iyer,IT,8.95,0,C;Android;CSS;Power BI;Docker;MySQL;Problem Solving,6,0,2,2,1
+95,Ananya Nair,EEE,9.39,0,SQL;OOP;Node.js;TensorFlow;Java;Statistics;C;Excel;Flask,2,1,3,2,1
+96,Ishaan Joshi,CIVIL,8.29,1,C++;Data Analysis;CSS;System Design;PostgreSQL,6,3,3,10,1
+97,Aarav Chatterjee,CSE,5.58,0,Docker;Communication Skills;Azure;REST API;React,0,2,1,5,0
+98,Divya Rao,CSE,5.98,2,Git;Java;Linux;Flask;Kubernetes;Machine Learning;Problem Solving;Data Structures;Data Analysis;React;Python;GCP,2,1,4,7,1
+99,Ananya Kumar,CIVIL,5.87,3,REST API;Git;Flask;Testing,4,0,3,8,0
+100,Kavya Nair,CIVIL,5.57,1,Machine Learning;Communication Skills;Kotlin;Linux;MySQL;AWS;Scikit-learn;PostgreSQL,0,2,4,6,0
+101,Ananya Joshi,CIVIL,7.5,1,Operating Systems;PostgreSQL;JavaScript;Problem Solving;HTML;C++;Data Analysis;Computer Networks;Communication Skills;System Design;Flutter;NumPy;Pandas,4,3,4,8,1
+102,Diya Nair,ECE,9.21,0,Scikit-learn;NLP;MongoDB;Power BI;React;Excel;Node.js;Tableau;Spring Boot;Operating Systems;Django;Android;Agile,6,2,0,7,1
+103,Aditya Menon,MECH,9.78,0,NumPy;MySQL;SQL;Spring Boot;Kotlin;Data Analysis;Pandas,3,3,1,8,1
+104,Kavya Singh,EEE,6.68,3,JavaScript;Kotlin;Linux,3,2,4,3,0
+105,Aarav Iyer,MECH,8.42,0,JavaScript;Machine Learning;Cybersecurity;Android;Power BI,2,3,4,1,1
+106,Kavya Gupta,EEE,8.78,0,Power BI;Excel;NumPy;Android;NLP;Machine Learning;MongoDB;Java;Operating Systems;Django;REST API,3,0,2,5,1
+107,Arjun Reddy,MECH,6.73,2,Computer Networks;MongoDB;PostgreSQL;JavaScript;Node.js;Operating Systems;Problem Solving;Leadership;SQL;NumPy,5,2,5,2,1
+108,Rohan Joshi,IT,8.56,3,Operating Systems;Testing;Power BI;Flask;OOP;MongoDB;Computer Networks;PostgreSQL;Machine Learning;Django;Java;Cybersecurity;Docker,4,2,3,9,1
+109,Kabir Singh,CSE,5.78,0,Communication Skills;CSS;REST API;Statistics;Agile;Kubernetes;JavaScript;PostgreSQL;NumPy;Android;Problem Solving;Node.js;HTML;Cybersecurity,2,1,4,10,1
+110,Pooja Patel,CSE,9.07,0,Algorithms;Spring Boot;NumPy;Problem Solving;OOP;TensorFlow;REST API,2,0,2,4,1
+111,Neha Nair,IT,8.19,1,Flask;Android;Algorithms;AWS,4,1,1,10,1
+112,Karthik Sharma,CSE,5.85,3,Deep Learning;Android;DBMS;Kubernetes;Statistics;GCP;Linux;Java;Django;Problem Solving;Git;Data Analysis,5,2,3,4,0
+113,Nikhil Nair,EEE,5.81,0,Statistics;CSS;HTML;DBMS;Scikit-learn;Azure;Data Structures;NumPy;System Design;TensorFlow,3,1,2,9,1
+114,Arjun Verma,ECE,7.43,0,Data Analysis;Tableau;GCP,3,1,1,6,0
+115,Karthik Das,ECE,6.32,0,HTML;Django;Pandas;Testing;Java;SQL;Excel;Flask;Spring Boot;Machine Learning;DBMS,4,2,0,1,1
+116,Sneha Nair,MECH,5.54,0,Deep Learning;Communication Skills;Power BI;Agile;Excel,2,0,3,1,0
+117,Karthik Patel,IT,7.06,0,Flask;Node.js;Agile;Docker;NLP;GCP;Flutter;Communication Skills;MongoDB,1,0,3,6,1
+118,Kavya Pillai,IT,6.36,0,C++;Spring Boot;Testing;PostgreSQL;Problem Solving;Scikit-learn;CSS;REST API;HTML;Data Structures;Azure,4,1,2,10,1
+119,Sanjay Iyer,EEE,9.76,1,AWS;Scikit-learn;Flask;Cybersecurity;Git;Django;Problem Solving,4,2,3,1,1
+120,Pooja Singh,ECE,8.93,1,Linux;Java;Azure;CSS;Deep Learning;Android;AWS;Kubernetes;OOP;C;Problem Solving;Agile;Algorithms;REST API,5,3,1,4,1
+121,Vivaan Singh,CIVIL,5.97,0,Statistics;Data Structures;Spring Boot;System Design;DBMS;Cybersecurity;Flask;GCP,3,0,5,3,0
+122,Sneha Patel,EEE,6.85,0,Scikit-learn;Git;TensorFlow;Flutter;Communication Skills;Agile;Android;System Design;Deep Learning;GCP;CSS,1,1,2,9,1
+123,Rohan Reddy,ECE,8.82,1,Problem Solving;Django;NumPy;CSS;TensorFlow;Docker;NLP;Data Analysis;MongoDB;Kubernetes;Git;Tableau;Excel;Leadership,6,1,2,1,1
+124,Kavya Chatterjee,EEE,8.32,1,Computer Networks;Git;NLP;Docker;System Design;Cybersecurity,1,0,4,10,1
+125,Meera Reddy,CSE,8.38,0,OOP;C;MySQL;Statistics;Scikit-learn;Problem Solving;CSS;Cybersecurity;Flutter;PostgreSQL;Python;Docker;Algorithms,3,3,3,4,1
+126,Rohan Kumar,CSE,9.4,0,OOP;Git;Leadership;Communication Skills;C++;Operating Systems;Statistics;Agile;Cybersecurity;Excel;Django;System Design,5,2,0,1,1
+127,Rohan Singh,MECH,5.96,3,HTML;Android;Git;REST API;Django;PostgreSQL;Flask,3,2,1,2,0
+128,Priya Das,IT,5.56,0,Kubernetes;Flutter;Agile;Computer Networks;Operating Systems;GCP;Linux,3,3,4,6,1
+129,Aditya Menon,CIVIL,5.91,3,NumPy;Machine Learning;Python;Deep Learning;Tableau;Testing;Node.js;NLP;Scikit-learn;Pandas,4,0,2,6,0
+130,Ishaan Rao,ECE,6.19,1,Cybersecurity;Pandas;System Design;MongoDB;Linux;Data Analysis;Power BI;GCP;OOP;Flutter;PostgreSQL;CSS;Data Structures;HTML,5,2,3,9,1
+131,Sneha Pillai,MECH,8.95,2,Flutter;Agile;Azure;SQL;REST API;Node.js,4,2,0,10,1
+132,Rahul Reddy,MECH,7.81,0,Node.js;MongoDB;Flutter;DBMS;Problem Solving;AWS;Django;SQL;Flask;Spring Boot;C,3,1,4,7,1
+133,Arjun Singh,CSE,7.9,1,Communication Skills;Java;Excel;Deep Learning;Python;DBMS;AWS,0,0,3,6,0
+134,Vivaan Chatterjee,CSE,9.74,0,Statistics;Operating Systems;Cybersecurity;PostgreSQL;Android;Communication Skills;Leadership,3,2,3,8,1
+135,Nikhil Menon,CSE,8.44,1,PostgreSQL;Android;TensorFlow;MongoDB;Operating Systems;Git;Excel;REST API;Spring Boot;OOP;Python,6,0,2,8,1
+136,Neha Menon,IT,6.56,0,Computer Networks;Communication Skills;Agile;MongoDB;C++;Kotlin;Statistics,4,0,1,4,0
+137,Aditya Verma,MECH,5.64,0,C;Machine Learning;Leadership;C++;Excel;Node.js;OOP;Git;DBMS;Spring Boot;PostgreSQL;Flask;Data Analysis;Problem Solving,6,2,4,10,1
+138,Meera Nair,IT,9.74,0,Pandas;NLP;C;Docker;AWS;Operating Systems;Linux;Flutter;React,4,3,0,6,1
+139,Nikhil Pillai,MECH,6.87,0,Pandas;Tableau;Operating Systems;Agile;Git,3,1,1,5,1
+140,Arjun Chatterjee,CSE,7.92,3,REST API;PostgreSQL;Tableau;Machine Learning;Deep Learning;DBMS;Scikit-learn;Android;SQL;Node.js;Power BI,0,1,0,5,0
+141,Nikhil Kumar,MECH,8.09,2,Spring Boot;Agile;AWS;Communication Skills;Kotlin;Docker,1,3,1,6,0
+142,Diya Chatterjee,IT,9.64,0,Machine Learning;System Design;Azure;Problem Solving;DBMS;Excel;Spring Boot;Docker;NumPy;Data Analysis,3,3,4,6,1
+143,Rohan Nair,ECE,7.71,0,Spring Boot;Communication Skills;CSS;Agile,6,2,1,6,1
+144,Meera Das,IT,5.57,0,AWS;Communication Skills;Statistics;Data Analysis;Data Structures;Computer Networks;Scikit-learn;OOP;Tableau;Kubernetes;Machine Learning;Django,4,2,2,8,1
+145,Sneha Rao,IT,8.65,0,Communication Skills;Git;Django;Operating Systems;Android,0,0,0,1,0
+146,Meera Verma,CIVIL,6.15,0,Power BI;C;GCP;Linux;Kotlin;Cybersecurity;CSS;Leadership;Django;Java,0,3,0,1,0
+147,Rahul Das,ECE,7.8,0,System Design;Flutter;React;Operating Systems;MySQL;Leadership;REST API;Data Structures;Machine Learning;Computer Networks;GCP,4,2,2,5,1
+148,Nikhil Rao,MECH,6.55,1,Flutter;SQL;Android;Cybersecurity;C++;Testing;Excel,3,3,4,8,1
+149,Vivaan Kumar,CSE,8.52,0,Android;Testing;Scikit-learn;Kubernetes;MySQL;REST API;C++;OOP;DBMS,6,3,2,1,1
+150,Priya Chatterjee,MECH,7.92,0,Java;DBMS;AWS;Data Structures;Problem Solving;Excel;JavaScript;Pandas,1,1,4,7,1
+151,Neha Gupta,EEE,8.75,0,Communication Skills;SQL;Flask;Leadership;TensorFlow;C;MySQL;React;OOP;JavaScript;Scikit-learn;Azure;GCP;Linux,3,2,0,5,1
+152,Meera Gupta,MECH,9.55,0,AWS;Kotlin;Tableau;SQL;GCP;Data Analysis;Machine Learning;JavaScript;Agile;NLP;Data Structures;Cybersecurity;Android,5,3,2,6,1
+153,Ishaan Verma,CSE,9.55,0,MySQL;PostgreSQL;SQL;Operating Systems;React;Node.js;Docker,4,3,0,1,1
+154,Divya Singh,ECE,9.21,0,Tableau;Cybersecurity;SQL;Communication Skills;Docker;Machine Learning;Kubernetes;REST API;Algorithms,5,3,1,3,1
+155,Priya Nair,ECE,7.62,0,NLP;Statistics;Pandas;CSS;JavaScript;Power BI;Deep Learning;Machine Learning;Linux,3,1,3,2,1
+156,Nikhil Gupta,MECH,7.13,2,Scikit-learn;React;Android;Azure;PostgreSQL;Pandas;NumPy;Agile;Computer Networks;CSS,2,1,3,6,1
+157,Rohan Das,CIVIL,8.22,3,NumPy;Tableau;NLP;Excel;Power BI;MongoDB,4,1,4,9,1
+158,Aarav Das,EEE,9.55,0,System Design;JavaScript;Statistics;Flutter;Django;PostgreSQL;Linux,2,1,2,3,1
+159,Pooja Pillai,EEE,5.82,3,AWS;Excel;Git;Flask;System Design;Statistics;Cybersecurity;C++;Power BI;Problem Solving,4,0,0,4,0
+160,Divya Sharma,MECH,9.73,1,Agile;Scikit-learn;React;MySQL;Python;Spring Boot;Deep Learning;OOP;Flask,5,1,3,6,1
+161,Nikhil Rao,CIVIL,8.03,0,Java;CSS;MySQL;Data Analysis;Statistics;SQL;MongoDB;Data Structures,2,2,2,8,1
+162,Kavya Rao,CSE,7.38,1,JavaScript;Pandas;C++;Problem Solving;MongoDB;Java;Scikit-learn;Android,0,1,5,4,0
+163,Rahul Iyer,MECH,6.19,0,OOP;Excel;Linux;Operating Systems;Agile;Cybersecurity;Kotlin;React;Testing;Java,5,1,3,10,1
+164,Diya Reddy,ECE,8.73,2,Kubernetes;MySQL;Spring Boot;Git,1,2,2,4,0
+165,Arjun Verma,ECE,8.38,0,NumPy;Azure;Tableau;GCP;Excel;AWS;MongoDB;TensorFlow;System Design;HTML;Agile;Operating Systems;Pandas,4,0,5,3,1
+166,Ishaan Iyer,ECE,8.48,0,Azure;PostgreSQL;Kubernetes;Tableau;React;Operating Systems;Django;Linux;Git,5,1,4,3,1
+167,Sneha Nair,IT,6.3,2,C;TensorFlow;Python;Django;PostgreSQL;Computer Networks;Tableau;Docker;Flask;Android;Agile;Statistics,5,3,3,8,1
+168,Aarav Pillai,IT,6.76,0,Data Analysis;Algorithms;Cybersecurity;HTML;Kubernetes;Django;Docker;Flask;MongoDB;Leadership;Flutter,2,2,4,1,1
+169,Arjun Patel,IT,9.76,0,Agile;Machine Learning;Pandas;C++;Node.js;Deep Learning;TensorFlow;SQL;Leadership;MongoDB;Testing;DBMS;AWS,5,2,5,10,1
+170,Kabir Pillai,IT,9.0,2,TensorFlow;Git;NLP;Azure;Testing;Algorithms;NumPy;Data Analysis;System Design;Kubernetes;Cybersecurity;Flask,5,0,1,7,1
+171,Vivaan Nair,CIVIL,6.05,2,Data Structures;Problem Solving;NumPy;Machine Learning;Flutter;Excel,3,1,4,5,0
+172,Aditya Kumar,CSE,7.23,1,Power BI;HTML;Django;NumPy;AWS;Python;SQL;Testing;Linux;Kotlin;TensorFlow;JavaScript;Git;Excel,1,3,1,8,1
+173,Priya Gupta,ECE,6.95,0,Django;Testing;Scikit-learn;Flutter;C;C++;MySQL;Linux;HTML;Java;MongoDB;Algorithms,3,3,0,7,1
+174,Kabir Chatterjee,CIVIL,6.8,2,SQL;Android;Power BI;Deep Learning;Spring Boot;Cybersecurity;Kotlin,5,1,0,7,1
+175,Rohan Das,CIVIL,8.75,0,Problem Solving;MySQL;Python;DBMS,3,0,1,10,1
+176,Aarav Sharma,CIVIL,6.98,0,System Design;PostgreSQL;CSS;JavaScript;OOP;Tableau;SQL;MySQL;Spring Boot,2,2,2,3,1
+177,Nikhil Pillai,IT,8.26,1,REST API;Kubernetes;Python;GCP,5,1,3,6,1
+178,Kabir Chatterjee,EEE,8.15,0,SQL;MySQL;PostgreSQL;Agile;MongoDB;AWS,5,3,2,7,1
+179,Sanjay Pillai,IT,6.57,1,Docker;Azure;Testing;Communication Skills;Cybersecurity;Data Analysis,6,0,5,5,1
+180,Diya Das,EEE,6.77,0,Django;Tableau;MongoDB;Machine Learning;Spring Boot;Linux,4,0,4,1,1
+181,Kavya Chatterjee,ECE,6.07,2,Statistics;Power BI;Git;Flutter;Operating Systems;CSS;JavaScript;Java;AWS;Problem Solving;Python;Deep Learning,1,0,0,7,0
+182,Rahul Pillai,EEE,7.32,0,Git;Spring Boot;GCP;Data Structures;NLP;SQL;Pandas;Communication Skills;Flask;DBMS;Agile;Testing;NumPy,3,0,2,7,1
+183,Meera Sharma,IT,5.87,0,GCP;Azure;C;Pandas;Kotlin;Leadership;Operating Systems;MongoDB;Python;PostgreSQL,5,0,1,8,1
+184,Priya Iyer,ECE,6.05,1,Communication Skills;MongoDB;Cybersecurity;Java;Scikit-learn;React;NLP,4,0,2,10,0
+185,Aditya Rao,EEE,7.7,0,Algorithms;Power BI;Spring Boot;Deep Learning;MySQL;Kubernetes;Flutter;MongoDB;OOP;Flask;Python;C++,6,0,1,1,1
+186,Kabir Iyer,CSE,7.88,2,Android;Statistics;OOP;NumPy;Machine Learning;Testing;Agile;NLP;JavaScript;Kubernetes;Power BI;MongoDB;Flask;C,1,1,4,1,1
+187,Nikhil Verma,EEE,9.22,1,NumPy;SQL;Docker;HTML;Python;Power BI;Computer Networks,2,2,5,10,1
+188,Sneha Pillai,IT,8.65,0,Data Structures;Python;Statistics;Java;OOP;Git,2,0,2,1,1
+189,Nikhil Joshi,CIVIL,8.63,0,Machine Learning;Statistics;Django;C;Data Structures;Problem Solving;NLP;SQL;C++;OOP;REST API,3,2,3,2,1
+190,Nikhil Verma,MECH,7.94,0,Machine Learning;Data Analysis;Deep Learning;NumPy;Spring Boot,3,2,2,8,1
+191,Priya Reddy,CSE,9.56,0,MySQL;Data Structures;Spring Boot;Algorithms;Node.js;HTML;NumPy;Statistics;MongoDB;Git;TensorFlow;DBMS,3,2,3,5,1
+192,Rohan Joshi,CIVIL,8.5,0,Data Structures;SQL;Problem Solving;Machine Learning;TensorFlow;Excel;Flask;C,5,2,2,3,1
+193,Aarav Menon,EEE,7.89,0,HTML;MySQL;Spring Boot;Testing,1,0,0,1,0
+194,Kabir Reddy,EEE,7.1,1,SQL;AWS;Testing;Deep Learning;JavaScript;Java;Leadership;Computer Networks;Android;Node.js;PostgreSQL;Spring Boot;Scikit-learn,0,0,3,1,0
+195,Ananya Chatterjee,MECH,7.36,1,Java;Tableau;Flutter;React;Operating Systems;TensorFlow;DBMS;Leadership;NLP;Cybersecurity,3,1,0,10,1
+196,Rohan Rao,EEE,9.3,0,NLP;Tableau;PostgreSQL;Statistics,1,1,5,9,1
+197,Aarav Menon,CIVIL,7.04,0,TensorFlow;Kubernetes;Flask;NumPy;Tableau;NLP;Operating Systems;Java;Agile;Azure,1,0,2,1,0
+198,Kavya Pillai,MECH,9.8,3,Machine Learning;Kotlin;NLP;Git,6,0,1,10,1
+199,Nikhil Gupta,IT,6.26,0,System Design;TensorFlow;AWS;Java;Problem Solving;Spring Boot;Testing;Kubernetes;Communication Skills;Data Structures;Flutter;Computer Networks;Django;Git,2,1,3,1,1
+200,Meera Sharma,MECH,7.56,0,Computer Networks;PostgreSQL;Scikit-learn;Problem Solving;Operating Systems;NumPy;C;Java;Data Structures;AWS;Flutter;MongoDB,6,2,0,6,1
+201,Nikhil Singh,CSE,6.95,0,Communication Skills;React;Testing;Linux;Django,5,2,1,9,1
+202,Kavya Reddy,CIVIL,8.03,0,Communication Skills;System Design;Data Analysis;PostgreSQL;Operating Systems;Spring Boot;Python,5,3,4,1,1
+203,Ananya Singh,ECE,9.46,3,Linux;Kubernetes;MySQL;Django;Data Structures;Scikit-learn,5,0,1,6,1
+204,Aditya Joshi,CIVIL,8.38,1,Node.js;Python;Deep Learning;DBMS;Machine Learning;System Design;JavaScript;TensorFlow,2,0,5,1,1
+205,Vivaan Menon,EEE,8.65,3,Django;Tableau;TensorFlow;Git;Testing;MySQL;CSS;Kubernetes;Android,6,1,1,8,1
+206,Rohan Sharma,ECE,6.62,0,Algorithms;Tableau;Spring Boot;Communication Skills;JavaScript;Docker;SQL;Scikit-learn,4,3,5,1,1
+207,Pooja Kumar,IT,8.11,0,MySQL;Scikit-learn;DBMS,1,3,5,9,1
+208,Priya Kumar,ECE,6.78,0,Kubernetes;Docker;Django;Data Structures;C;Power BI;Python;React;SQL,2,3,1,2,0
+209,Aarav Reddy,IT,8.24,3,MongoDB;Pandas;Excel;CSS;Django;Kotlin;Deep Learning;SQL;Android;Git,3,1,2,7,1
+210,Priya Rao,EEE,6.63,2,C;Data Structures;Agile;System Design;Kotlin;MySQL;SQL;Leadership;TensorFlow;Git;Statistics;AWS,1,0,3,9,1
+211,Pooja Patel,CIVIL,9.23,0,CSS;Pandas;SQL;Excel;Problem Solving;C++,4,1,0,8,1
+212,Diya Pillai,IT,6.04,0,React;Computer Networks;Linux;Data Structures;Azure;Deep Learning;NumPy;JavaScript;SQL;Tableau;Docker;Excel;Android,2,2,4,8,1
+213,Aarav Pillai,CIVIL,8.18,0,MongoDB;Statistics;Data Structures;Cybersecurity;Kubernetes;AWS;Communication Skills;MySQL;System Design,4,0,2,9,1
+214,Priya Menon,CIVIL,7.59,1,Operating Systems;NLP;Excel,1,3,0,7,0
+215,Sanjay Das,IT,5.71,0,Power BI;Java;Scikit-learn;Pandas;Agile;NLP;Django,6,0,1,3,0
+216,Sanjay Nair,CIVIL,7.29,1,Node.js;DBMS;Statistics;Leadership;Django;REST API,6,2,0,9,1
+217,Ananya Verma,ECE,8.55,0,Kubernetes;Java;Operating Systems;Computer Networks;Agile;C;Machine Learning;C++;HTML;Communication Skills;Power BI,5,1,2,6,1
+218,Ishaan Kumar,CSE,6.54,0,Operating Systems;CSS;AWS;Docker;TensorFlow;Leadership;Algorithms;Deep Learning;SQL;Data Analysis,0,3,0,3,0
+219,Karthik Pillai,IT,9.19,1,DBMS;NLP;Android;Statistics;Flask;Java;Flutter;Python;CSS;PostgreSQL;Cybersecurity;Operating Systems;Azure,6,0,1,5,1
+220,Priya Menon,EEE,9.16,0,HTML;Pandas;Flutter;REST API;GCP;Excel,4,0,0,9,1
+221,Kavya Patel,CIVIL,8.05,0,MySQL;CSS;JavaScript;Scikit-learn;NLP;Linux;NumPy;Leadership;Deep Learning;Android;Kotlin;Pandas;Computer Networks,1,1,0,10,1
+222,Kabir Das,CSE,8.32,3,Statistics;Excel;Tableau;Leadership;C++;AWS;Problem Solving,4,1,2,4,1
+223,Neha Kumar,EEE,9.4,1,Pandas;Algorithms;Kotlin;Docker;Operating Systems;Data Analysis;MySQL;CSS;PostgreSQL;Deep Learning;Agile,6,1,5,6,1
+224,Meera Das,ECE,7.31,2,Deep Learning;AWS;Data Analysis;HTML;MongoDB;CSS;C;Linux,4,0,3,4,0
+225,Rahul Verma,CIVIL,7.14,0,Data Structures;PostgreSQL;Computer Networks,2,3,4,8,1
+226,Ananya Pillai,CSE,7.6,1,NumPy;Linux;C;Python;Node.js,2,1,1,10,1
+227,Ananya Rao,CSE,6.06,0,Excel;React;CSS;Tableau;Python;C++;Git;Computer Networks;Power BI,0,2,4,4,1
+228,Meera Reddy,CIVIL,9.27,0,Tableau;Flask;AWS;Pandas,1,0,0,5,1
+229,Rohan Rao,CIVIL,7.74,0,Flutter;PostgreSQL;Scikit-learn;Django;TensorFlow;Computer Networks;Algorithms;Excel;Java,1,1,5,3,1
+230,Rahul Iyer,CSE,7.08,1,Tableau;Linux;Deep Learning,6,0,4,1,0
+231,Ishaan Kumar,CSE,5.71,0,Tableau;MongoDB;Docker;Deep Learning;CSS;System Design;Data Structures;DBMS;Flutter;Linux,0,2,3,2,0
+232,Divya Das,IT,7.3,2,Communication Skills;GCP;MongoDB;Data Analysis;Cybersecurity;MySQL;Django;Computer Networks;Azure;System Design;Deep Learning,6,1,2,7,1
+233,Rohan Iyer,CSE,7.86,2,CSS;Scikit-learn;Machine Learning;Python;Agile;Kotlin;SQL;MongoDB;Kubernetes;Communication Skills;Django;Data Structures;Problem Solving;Flask,0,0,2,4,0
+234,Priya Rao,CSE,5.93,0,Data Analysis;Power BI;Spring Boot,5,2,3,2,0
+235,Ishaan Joshi,CSE,5.54,0,Algorithms;Scikit-learn;TensorFlow;Node.js;GCP;NLP;SQL;Power BI;Testing;Operating Systems;MongoDB;Excel;Linux,3,2,3,8,1
+236,Ananya Verma,IT,8.49,0,MySQL;Statistics;AWS;CSS;Spring Boot,4,3,1,10,1
+237,Nikhil Pillai,ECE,8.13,2,PostgreSQL;CSS;Django;MongoDB;Statistics;Node.js;C++;JavaScript;Deep Learning;Android;NumPy;Python;REST API;Kubernetes,5,1,5,6,1
+238,Divya Verma,EEE,8.35,0,Kotlin;Flutter;Android;Tableau;Data Structures;Docker;GCP;C,0,1,4,8,1
+239,Sneha Joshi,IT,5.82,0,Scikit-learn;NLP;C;Flask;OOP;Docker,5,3,3,4,1
+240,Karthik Rao,CSE,9.18,0,Django;Leadership;Android;Java,0,3,3,1,1
+241,Neha Patel,CSE,9.05,1,Linux;Pandas;Flask;Docker;DBMS;Android;Kotlin;HTML;Scikit-learn;Power BI;C;OOP,6,3,2,9,1
+242,Kavya Das,EEE,5.99,1,Python;Scikit-learn;TensorFlow;Linux;Data Analysis;Docker,4,2,5,2,0
+243,Vivaan Chatterjee,IT,7.62,2,Communication Skills;Statistics;MySQL;Deep Learning;GCP;Computer Networks;Spring Boot;MongoDB;Excel;DBMS;HTML;Problem Solving;Scikit-learn;Cybersecurity,6,3,0,10,1
+244,Arjun Kumar,MECH,9.61,0,Python;REST API;Leadership;C;Docker;React;AWS;CSS;Flask;Operating Systems,5,1,5,3,1
+245,Ishaan Menon,CIVIL,8.08,2,Tableau;Statistics;Azure;System Design;Machine Learning;NLP;Excel;Scikit-learn;Data Analysis;Node.js;PostgreSQL,1,3,4,9,1
+246,Sanjay Das,CIVIL,9.52,1,DBMS;GCP;Problem Solving;Data Analysis;Flutter;TensorFlow,5,1,5,3,1
+247,Rahul Patel,CIVIL,8.24,1,Docker;CSS;AWS;Kubernetes;Kotlin;Problem Solving;Statistics;Flutter,5,2,3,1,1
+248,Kabir Sharma,CIVIL,5.74,0,Data Analysis;Flutter;Deep Learning;Data Structures;C,5,2,1,9,1
+249,Vivaan Gupta,EEE,5.94,2,Docker;OOP;Leadership;Android;Spring Boot;Tableau;Machine Learning;Flask;Data Analysis;Kotlin;C;Communication Skills;Linux;Statistics,6,2,4,1,1
+250,Divya Joshi,EEE,9.07,2,Problem Solving;Android;Power BI;Agile;AWS;Git;Azure;Computer Networks;System Design;Data Analysis;Node.js;Operating Systems;JavaScript;Linux,1,0,3,1,1
+251,Pooja Nair,MECH,6.64,0,Python;Scikit-learn;HTML;Problem Solving;Data Structures;C++;Leadership,2,0,5,10,1
+252,Karthik Patel,ECE,5.81,1,OOP;Operating Systems;REST API;JavaScript;Flask;Algorithms;Statistics;Git;System Design;Excel;SQL,2,1,1,6,0
+253,Sanjay Gupta,ECE,6.44,1,CSS;Docker;Agile;Android;Python;MongoDB;Kotlin;TensorFlow;Node.js;Machine Learning;Cybersecurity,4,1,0,6,0
+254,Ishaan Menon,ECE,7.82,0,Cybersecurity;Power BI;Flask;Spring Boot;Node.js;Django;C++;Data Analysis;Android;Computer Networks;NumPy,4,0,0,3,1
+255,Neha Patel,CSE,8.2,0,Cybersecurity;DBMS;Flutter;React;MySQL;Testing;Git;System Design;Agile;Android;JavaScript;Data Structures;Java,3,2,0,2,1
+256,Priya Patel,CSE,7.97,0,Statistics;Tableau;Node.js;Linux;Excel;React;NumPy,0,3,5,2,1
+257,Neha Sharma,CIVIL,8.6,0,AWS;C++;System Design;JavaScript;TensorFlow;Flask;MySQL;Data Analysis;Flutter;Pandas;Azure;SQL;Cybersecurity;Node.js,3,3,5,1,1
+258,Kabir Das,EEE,8.93,2,Linux;Data Structures;Pandas;Flutter;Communication Skills;Android;Power BI,0,1,0,1,0
+259,Aarav Singh,MECH,7.19,0,Pandas;DBMS;Leadership;Communication Skills,2,1,3,9,1
+260,Divya Joshi,ECE,6.34,0,C;Agile;Docker;HTML;Android;Cybersecurity;JavaScript;Data Analysis;Kotlin;Problem Solving;Deep Learning;MySQL,1,3,2,6,1
+261,Kabir Kumar,CIVIL,6.51,0,Computer Networks;NumPy;Django;Node.js,2,2,5,10,1
+262,Sanjay Menon,IT,5.52,0,Problem Solving;Leadership;Android;React;NLP;Power BI,1,2,3,8,1
+263,Arjun Gupta,ECE,7.59,0,Azure;SQL;NLP;PostgreSQL;Git;Computer Networks;Deep Learning;Linux;JavaScript;Flutter;Java;Flask;Android,6,3,4,4,1
+264,Neha Chatterjee,MECH,7.53,1,Excel;OOP;Cybersecurity;AWS;Communication Skills;Data Analysis;PostgreSQL;HTML,4,0,3,6,1
+265,Rahul Sharma,CIVIL,6.53,3,Flutter;Algorithms;Agile;Flask;PostgreSQL;Node.js;Testing;Operating Systems;Kubernetes;Spring Boot;Data Structures;CSS,2,0,1,8,0
+266,Meera Sharma,CIVIL,6.39,2,Tableau;CSS;HTML;C++;Agile;Android;NumPy;MySQL,5,2,5,5,1
+267,Karthik Patel,MECH,6.25,1,AWS;Android;JavaScript;REST API;Deep Learning;Tableau;OOP;Agile,3,2,2,8,1
+268,Aarav Patel,IT,7.39,0,Android;NLP;DBMS;Data Structures;Operating Systems;Algorithms;Power BI;Azure;MongoDB;Kotlin;OOP,3,2,5,2,1
+269,Sneha Kumar,EEE,7.56,0,Statistics;Java;Machine Learning;C++;PostgreSQL;Kubernetes;AWS;Algorithms;Leadership;Linux;Flask;Agile;Communication Skills,1,0,1,5,1
+270,Nikhil Singh,MECH,8.24,2,Kotlin;Data Analysis;SQL;DBMS;Node.js;Azure;CSS;Problem Solving;Algorithms;OOP;Statistics;Communication Skills;Data Structures;AWS,6,1,4,9,1
+271,Priya Iyer,CIVIL,8.45,3,AWS;JavaScript;OOP;Tableau;Agile;PostgreSQL;MySQL;Java;Computer Networks;REST API;Flask;Statistics,6,1,4,2,1
+272,Divya Sharma,MECH,7.66,0,Kotlin;PostgreSQL;Azure;Git;Python;Flutter;Android;React;REST API;Statistics,2,0,5,9,1
+273,Pooja Reddy,EEE,8.9,0,Spring Boot;Leadership;Agile;System Design;Kubernetes;MySQL;React;PostgreSQL;Deep Learning;CSS;OOP;SQL,2,3,2,4,1
+274,Aarav Singh,MECH,6.01,0,DBMS;System Design;NumPy;Statistics;Power BI;MySQL;Data Structures;React;Android;AWS;Deep Learning;Flutter;Git,3,2,4,5,1
+275,Nikhil Pillai,IT,7.28,1,Operating Systems;Power BI;Docker;Cybersecurity;CSS;Deep Learning;Pandas;Kubernetes;TensorFlow;Excel,5,1,5,2,1
+276,Ananya Verma,IT,7.69,1,GCP;System Design;Flutter;Problem Solving;C;Algorithms;Tableau;Linux;Python;SQL;Data Structures,3,3,0,2,1
+277,Priya Reddy,ECE,5.84,0,Excel;GCP;Android;REST API;Data Analysis;Problem Solving;Azure;C;Operating Systems,5,3,3,1,1
+278,Rahul Nair,IT,5.64,0,System Design;OOP;GCP;Algorithms;Flutter;C++;Power BI;Machine Learning;Android;Python;Agile,0,2,3,6,1
+279,Nikhil Menon,MECH,6.36,0,JavaScript;SQL;Docker;Data Analysis;Communication Skills;Cybersecurity;AWS;TensorFlow;System Design;NLP;OOP;Azure;Computer Networks;HTML,3,0,2,3,1
+280,Aditya Patel,ECE,6.96,0,Deep Learning;Git;Kubernetes;Spring Boot;System Design;Node.js;Tableau;Cybersecurity;CSS;Machine Learning;Scikit-learn,6,3,5,8,1
+281,Karthik Joshi,CSE,7.57,0,Linux;Testing;OOP;Flutter;System Design;Cybersecurity;NumPy;Statistics;TensorFlow,4,0,5,5,1
+282,Sanjay Verma,MECH,9.51,0,DBMS;Kubernetes;NLP;Operating Systems;Leadership;Flutter;Computer Networks;Django,5,1,1,4,1
+283,Priya Reddy,IT,6.37,0,TensorFlow;Data Structures;Cybersecurity;MySQL;MongoDB;SQL;Flutter;Kotlin;Django;GCP;Python;Git,0,3,2,10,1
+284,Karthik Joshi,ECE,7.61,3,NLP;Excel;OOP;Agile;Kubernetes;PostgreSQL;C;REST API;React;CSS;Git,0,2,3,3,1
+285,Arjun Verma,CIVIL,7.73,0,Python;Flutter;DBMS,3,0,2,6,0
+286,Neha Nair,IT,6.66,3,Power BI;Operating Systems;Django;React;DBMS;Statistics;System Design;Spring Boot,2,3,2,8,0
+287,Ananya Singh,IT,9.71,1,Communication Skills;NLP;Spring Boot;Machine Learning,4,3,3,4,1
+288,Kabir Rao,CSE,6.26,0,REST API;Git;Communication Skills;NumPy;Django;Pandas;Deep Learning;Docker;Kubernetes;C;Excel;MySQL;Algorithms,0,1,2,8,1
+289,Ishaan Rao,CIVIL,6.94,0,Docker;Deep Learning;TensorFlow;Java;Statistics;MongoDB;Cybersecurity;Flutter;Azure;Computer Networks;Kubernetes,4,1,2,6,1
+290,Arjun Chatterjee,CSE,7.14,0,Data Structures;Algorithms;Linux;Scikit-learn;Statistics;Cybersecurity;GCP;Kubernetes;Excel;JavaScript;SQL;Testing;Agile,1,2,2,5,1
+291,Priya Singh,CIVIL,7.2,2,Leadership;AWS;REST API;Node.js;Statistics;Algorithms;Operating Systems;Java,1,1,5,5,1
+292,Aditya Reddy,IT,7.21,0,Docker;C;Java;Excel;REST API;SQL;MySQL;Deep Learning;GCP;Data Structures,0,3,2,4,1
+293,Meera Das,ECE,7.41,0,Algorithms;Java;C++;Kotlin;TensorFlow;NumPy;CSS;HTML;Git;NLP;Docker,3,1,5,9,1
+294,Karthik Menon,MECH,8.25,0,CSS;Git;OOP;SQL;Node.js;Pandas;Power BI;Statistics,2,1,2,1,1
+295,Aarav Patel,IT,6.98,0,System Design;Django;Agile,3,2,0,7,1
+296,Aarav Patel,ECE,6.31,2,Excel;Machine Learning;Algorithms;Problem Solving;Leadership;Android;Tableau;Agile;OOP,2,0,3,4,0
+297,Rahul Pillai,MECH,8.97,1,Android;Leadership;Git;NLP;Statistics;Computer Networks;JavaScript,1,1,2,2,0
+298,Priya Das,MECH,7.62,0,C;Git;Java;Operating Systems;MySQL,2,2,1,8,1
+299,Aarav Reddy,CSE,6.15,0,Statistics;Pandas;Django;Power BI;HTML;System Design;C++;Scikit-learn,0,1,0,5,0
+300,Sneha Iyer,IT,9.35,0,Python;MongoDB;Cybersecurity;Problem Solving;Machine Learning;Tableau;Node.js;Leadership;C++,1,3,5,2,1
+301,Rahul Kumar,IT,7.53,1,NumPy;Algorithms;Linux;Communication Skills;C++;Docker;REST API,0,2,3,5,1
+302,Diya Verma,IT,8.22,0,Testing;NLP;AWS;MongoDB;Excel,6,1,0,1,1
+303,Karthik Pillai,CIVIL,7.54,0,Cybersecurity;SQL;Machine Learning;Algorithms;Django;Testing;Flutter;GCP,2,0,0,6,0
+304,Ishaan Iyer,EEE,6.5,3,Agile;TensorFlow;Node.js;Communication Skills;Computer Networks;Java;System Design;Tableau;Testing;PostgreSQL;Deep Learning;C++;Django,5,3,4,5,1
+305,Neha Das,EEE,6.32,0,NumPy;Communication Skills;HTML;NLP;Azure;Docker;Algorithms;JavaScript,4,1,3,5,1
+306,Arjun Sharma,CIVIL,7.68,1,GCP;Power BI;Cybersecurity,4,1,2,2,0
+307,Neha Joshi,EEE,6.32,1,Data Structures;GCP;Data Analysis;NumPy;Statistics;Android;Agile;MongoDB;MySQL;REST API;JavaScript,0,1,1,1,0
+308,Ishaan Sharma,MECH,8.26,0,REST API;GCP;System Design;AWS;Deep Learning;C;Power BI;OOP;Azure;JavaScript,0,1,5,8,1
+309,Aditya Rao,CIVIL,5.76,0,Power BI;Testing;Problem Solving;C;GCP;NLP;REST API;C++;JavaScript,6,2,0,4,1
+310,Meera Patel,EEE,6.31,0,Kubernetes;Linux;Operating Systems;Docker;Leadership;Agile,3,0,5,10,1
+311,Kavya Kumar,EEE,8.52,0,Algorithms;Testing;Operating Systems;Docker,3,2,5,3,1
+312,Kavya Chatterjee,ECE,7.87,3,Statistics;Agile;Linux;React;Communication Skills;NumPy;Azure;Machine Learning,4,1,3,9,1
+313,Priya Gupta,EEE,7.42,0,C++;Data Analysis;Azure;Java;REST API;PostgreSQL;Pandas;Python;Problem Solving;OOP;DBMS;NumPy;Agile;NLP,4,1,0,1,1
+314,Priya Gupta,MECH,6.57,0,SQL;Kubernetes;Excel;Testing;DBMS;Communication Skills;JavaScript,5,2,3,3,1
+315,Sneha Joshi,CIVIL,8.52,2,Azure;Android;Pandas;C++,5,3,0,1,1
+316,Pooja Menon,CSE,9.24,0,Azure;Python;Linux;Cybersecurity;Tableau;C;Pandas;REST API;C++;NumPy;Git;Kubernetes;Data Structures,2,1,1,1,1
+317,Nikhil Rao,MECH,7.97,0,Data Analysis;Testing;Excel;Data Structures;PostgreSQL;Scikit-learn;SQL;CSS;Kubernetes,5,0,4,7,1
+318,Pooja Pillai,CIVIL,6.06,0,Computer Networks;Django;Excel;Android;Kubernetes;Spring Boot;Docker;GCP;REST API;Machine Learning;Kotlin,0,2,3,6,1
+319,Karthik Verma,CSE,8.39,0,Computer Networks;NumPy;TensorFlow;Azure;Android;Java;Pandas;Algorithms,2,3,4,3,1
+320,Meera Reddy,CIVIL,7.11,1,MongoDB;Leadership;C;Machine Learning,4,1,2,1,0
+321,Sanjay Das,CSE,6.81,0,DBMS;Leadership;Git;Spring Boot;Agile;Cybersecurity;REST API;Deep Learning,4,3,4,3,1
+322,Nikhil Singh,CIVIL,7.77,0,Data Analysis;Computer Networks;Testing,5,2,0,8,1
+323,Aarav Verma,EEE,8.34,1,Power BI;MySQL;Java;Data Analysis;Android;Tableau;OOP;Communication Skills;Flask;Testing;NumPy;Django;Azure,4,0,1,4,1
+324,Aarav Sharma,IT,9.47,0,Excel;Leadership;Algorithms;Java;TensorFlow;Flutter;Testing;Problem Solving;Linux;Pandas,1,2,0,5,1
+325,Nikhil Chatterjee,CSE,9.56,3,Data Structures;Scikit-learn;Excel;Kotlin;PostgreSQL;SQL,5,3,4,10,1
+326,Pooja Reddy,MECH,6.16,3,Scikit-learn;Node.js;Git;PostgreSQL;DBMS;Android;Agile;AWS;Cybersecurity;Computer Networks;Problem Solving;Pandas,5,1,3,3,0
+327,Karthik Chatterjee,IT,6.87,0,MongoDB;Operating Systems;NumPy;Data Structures;Communication Skills;Java;Cybersecurity;Statistics;System Design;Pandas;Node.js;Linux;NLP;Agile,6,1,0,3,1
+328,Divya Singh,ECE,8.1,1,OOP;Spring Boot;Flutter;Java;TensorFlow;SQL;System Design;CSS;PostgreSQL;Flask;Azure;Problem Solving,5,2,1,7,1
+329,Sneha Rao,IT,6.2,0,Agile;Python;NLP;Statistics;OOP;Kotlin;Computer Networks;DBMS;JavaScript,1,3,4,8,1
+330,Meera Menon,EEE,8.84,1,Communication Skills;NumPy;Excel;GCP;Leadership;Kubernetes;Azure;Git;REST API,5,0,4,2,1
+331,Arjun Rao,CSE,9.27,0,Excel;Leadership;C++;Docker;Tableau;REST API;Linux;C;Computer Networks;Data Analysis;Node.js,3,2,2,8,1
+332,Vivaan Das,MECH,9.39,0,Node.js;SQL;Communication Skills;Flask;MongoDB;Operating Systems;AWS;System Design;Git;PostgreSQL;Excel;Statistics;NumPy,3,0,1,8,1
+333,Karthik Chatterjee,CIVIL,9.35,2,Deep Learning;NumPy;System Design;Android,5,1,5,2,1
+334,Kavya Verma,MECH,8.54,1,GCP;Algorithms;Tableau;Docker;Cybersecurity;C++;Testing;Scikit-learn;Kubernetes;Kotlin;Data Structures,1,1,1,1,1
+335,Pooja Nair,ECE,8.64,3,Linux;Operating Systems;MongoDB;PostgreSQL;Computer Networks;Python;GCP,6,2,0,8,1
+336,Aarav Singh,EEE,6.52,0,HTML;Statistics;Node.js;SQL;Azure;Leadership;Python;Machine Learning;Docker;NLP,4,1,0,3,1
+337,Kabir Sharma,CIVIL,7.0,0,Kotlin;Kubernetes;Azure,2,2,0,1,1
+338,Ananya Kumar,ECE,8.13,1,Kubernetes;Testing;Docker;Operating Systems;HTML;AWS;Power BI;C++;SQL;Pandas;NumPy;Problem Solving,3,0,3,9,1
+339,Aditya Nair,EEE,6.08,1,Scikit-learn;REST API;Statistics;Testing;DBMS;System Design;Leadership,4,0,0,10,0
+340,Aditya Rao,CIVIL,8.46,3,Data Analysis;React;Azure;NumPy;Deep Learning;REST API;Kubernetes;GCP;TensorFlow;PostgreSQL;System Design;Problem Solving;Django;Communication Skills,5,3,3,3,1
+341,Divya Reddy,CIVIL,6.75,0,Java;HTML;Linux;Testing,0,1,4,7,0
+342,Neha Pillai,CIVIL,6.41,1,Data Analysis;Deep Learning;JavaScript;Pandas;Agile;Flask;Docker;NumPy;Python;MongoDB;Scikit-learn;Android;Excel;Kubernetes,4,0,1,4,1
+343,Sanjay Joshi,ECE,9.47,0,Spring Boot;C++;Android;PostgreSQL;CSS;Data Structures;Linux;HTML;Git;Scikit-learn,3,3,5,1,1
+344,Sanjay Patel,MECH,5.58,0,Spring Boot;Testing;TensorFlow;JavaScript;Data Structures;NLP;Java;Scikit-learn,3,1,4,10,1
+345,Nikhil Iyer,MECH,6.0,1,Problem Solving;NumPy;Spring Boot;C++;NLP;Statistics;SQL,3,1,2,8,1
+346,Rahul Nair,IT,5.98,1,SQL;Node.js;Flask;Java;CSS;Cybersecurity,1,1,2,8,0
+347,Rahul Nair,ECE,6.12,2,Flutter;PostgreSQL;DBMS;Communication Skills;C++;HTML;Tableau;REST API;MongoDB;Python;Pandas,0,0,2,8,0
+348,Rohan Sharma,MECH,8.76,1,NumPy;Computer Networks;Testing;Data Analysis;NLP;Git,2,3,5,2,1
+349,Priya Iyer,IT,6.68,0,Docker;Flask;MySQL;DBMS;Git;TensorFlow;Spring Boot;NumPy;NLP;Data Structures;Data Analysis;Kubernetes,1,1,0,5,1
+350,Arjun Sharma,IT,5.62,2,MySQL;Tableau;C,0,3,3,3,0
+351,Divya Chatterjee,MECH,8.21,1,GCP;TensorFlow;Pandas;Scikit-learn;Computer Networks;Problem Solving;Kotlin;Git;SQL;HTML,4,1,0,8,1
+352,Arjun Rao,IT,9.57,0,Deep Learning;Power BI;Excel;Operating Systems;System Design;Kotlin;Scikit-learn;NumPy;HTML;Django;Java;JavaScript,3,0,2,8,1
+353,Arjun Joshi,IT,6.71,0,PostgreSQL;Flask;MySQL;Excel;Problem Solving;Cybersecurity;NumPy;Docker;Android;JavaScript;Pandas;Git,3,3,4,7,1
+354,Ananya Rao,EEE,5.78,0,AWS;React;Testing;Kubernetes;Scikit-learn;Git;System Design;Machine Learning;Operating Systems;Kotlin;JavaScript;Agile;Django;MongoDB,4,3,2,9,1
+355,Ishaan Joshi,EEE,6.26,3,Azure;MySQL;Flutter;Cybersecurity,6,3,2,8,0
+356,Diya Joshi,IT,9.32,2,Spring Boot;Python;Agile;Data Structures;Kotlin;Cybersecurity;Node.js;Git;Data Analysis;Tableau;GCP;Kubernetes;Problem Solving,1,1,5,6,1
+357,Rohan Singh,CIVIL,6.81,3,Problem Solving;TensorFlow;SQL;AWS;Python;GCP;Flask;Excel;PostgreSQL,6,2,0,6,1
+358,Aarav Das,MECH,9.03,0,Java;Machine Learning;React;System Design;AWS;Excel;Linux,2,3,3,7,1
+359,Pooja Patel,IT,8.35,0,Docker;Tableau;Power BI;Statistics;Data Structures;Data Analysis,6,1,1,1,1
+360,Sneha Kumar,EEE,9.69,0,Android;Spring Boot;Statistics;HTML;Testing,5,3,4,3,1
+361,Arjun Patel,EEE,7.87,0,OOP;Operating Systems;React;Azure;Python;Kubernetes;Django;Machine Learning,5,2,3,9,1
+362,Vivaan Singh,EEE,8.53,0,System Design;SQL;Data Structures;Communication Skills;Agile;REST API;NLP;HTML;Leadership;Testing,4,0,1,8,1
+363,Aditya Kumar,CIVIL,7.82,0,C;Scikit-learn;Git;Python;CSS;HTML;Flask;Leadership;Kubernetes;Testing;Statistics;TensorFlow,6,2,2,3,1
+364,Rohan Das,MECH,6.62,1,Algorithms;Kubernetes;C;Kotlin;Data Analysis;GCP;Java;Leadership;Django;SQL;PostgreSQL;Flask,0,2,2,3,1
+365,Divya Nair,ECE,9.19,0,Azure;Operating Systems;AWS;Leadership,1,3,2,3,1
+366,Sneha Iyer,MECH,9.21,0,Data Structures;Azure;Django;Agile,3,3,1,8,1
+367,Ananya Reddy,MECH,8.66,0,Deep Learning;Agile;MongoDB;C;Algorithms;HTML;Excel;CSS;Pandas;System Design;Git;OOP;Tableau,5,3,3,5,1
+368,Aarav Nair,EEE,7.14,0,Flutter;C++;MySQL;Git;Linux;TensorFlow;React;GCP;Android;NLP;Scikit-learn,2,2,0,5,1
+369,Karthik Menon,EEE,8.82,1,Flutter;AWS;Cybersecurity;Computer Networks;REST API;Scikit-learn;Spring Boot;System Design;Operating Systems;NumPy;Docker;Python;Linux;JavaScript,0,3,0,9,1
+370,Meera Das,ECE,6.58,0,SQL;C;Azure;Kotlin;DBMS;Cybersecurity;Linux;MongoDB;System Design;Spring Boot;Communication Skills;PostgreSQL,3,1,0,3,1
+371,Priya Nair,EEE,8.34,0,NLP;Cybersecurity;React;System Design;Kotlin;NumPy;Deep Learning;Algorithms;JavaScript;Spring Boot,6,0,3,7,1
+372,Priya Iyer,EEE,5.8,3,GCP;Excel;Operating Systems;Android;Django;MySQL,1,3,1,10,0
+373,Ishaan Chatterjee,EEE,8.58,0,JavaScript;Kubernetes;Communication Skills;Deep Learning,6,3,0,8,1
+374,Vivaan Kumar,EEE,6.65,1,Kubernetes;Python;Flask;Problem Solving;Django;CSS;React;Excel;JavaScript,4,1,0,7,1
+375,Sneha Verma,MECH,7.8,3,Flutter;Pandas;Excel;C;Linux;Android;SQL;Power BI,4,2,0,8,1
+376,Diya Iyer,MECH,5.67,0,Pandas;System Design;Tableau;MySQL;Linux;Testing,2,3,0,8,0
+377,Diya Iyer,CSE,6.33,1,Machine Learning;Django;Tableau;JavaScript;Git;Android;Pandas;Testing;Leadership;Node.js;Java;C++,2,0,2,1,0
+378,Rahul Rao,CIVIL,9.24,0,AWS;OOP;JavaScript;C++;Leadership;Data Structures;Django;Android;Java;CSS;GCP;Agile;Machine Learning;PostgreSQL,0,1,5,1,1
+379,Rohan Joshi,CSE,7.46,0,JavaScript;MySQL;MongoDB;Django;Azure;GCP;OOP;Spring Boot;Computer Networks;React;Scikit-learn;Excel,2,0,5,10,1
+380,Diya Pillai,CSE,8.05,0,NLP;Data Structures;Agile;Statistics,1,2,4,3,1
+381,Arjun Reddy,MECH,5.68,0,GCP;Tableau;Cybersecurity;Algorithms;Java;Django;SQL;Python;System Design;Operating Systems;Problem Solving;AWS;Data Analysis,3,3,5,3,1
+382,Rahul Rao,EEE,6.53,0,C++;Azure;Operating Systems;Problem Solving;Django;GCP;SQL;Linux;Pandas;TensorFlow;Statistics;Python;Docker;Machine Learning,1,0,4,2,1
+383,Divya Gupta,MECH,7.68,0,Kotlin;DBMS;NLP;C;Computer Networks;MongoDB;Data Structures;Flutter;CSS;Django;Operating Systems;Algorithms;C++,0,2,2,4,1
+384,Arjun Sharma,CSE,8.68,3,Algorithms;Testing;Java;Django;Flask,0,0,1,8,0
+385,Karthik Singh,ECE,7.3,1,OOP;Cybersecurity;MongoDB;NumPy;Spring Boot;MySQL;Machine Learning;Statistics,6,1,3,4,1
+386,Vivaan Chatterjee,EEE,6.12,3,Operating Systems;Tableau;Power BI;PostgreSQL;HTML;Communication Skills;Computer Networks;Linux;TensorFlow;NLP,1,2,1,1,0
+387,Karthik Sharma,ECE,6.09,2,Statistics;Algorithms;Agile;Scikit-learn;OOP;Data Analysis;Azure;Testing;Linux;GCP,1,1,0,7,0
+388,Diya Singh,EEE,9.1,0,React;Leadership;Machine Learning;Cybersecurity;NumPy;Spring Boot;AWS;OOP;Problem Solving;Data Structures;Kubernetes;Python;Statistics;C++,0,3,5,9,1
+389,Vivaan Menon,MECH,7.2,2,MySQL;Node.js;Django;Machine Learning;SQL;Docker;Python;System Design;Statistics;DBMS;PostgreSQL;TensorFlow;Data Analysis;Agile,5,0,0,8,1
+390,Arjun Joshi,MECH,8.71,0,HTML;Cybersecurity;PostgreSQL;Problem Solving;Excel;Operating Systems;Power BI;Linux;Spring Boot;System Design,0,0,3,6,1
+391,Rahul Sharma,ECE,7.33,0,Git;Kubernetes;DBMS;Flutter;SQL;GCP;Scikit-learn;C;Flask;Power BI;System Design;MongoDB,3,2,3,10,1
+392,Neha Das,CSE,7.91,1,Scikit-learn;Machine Learning;Git;MongoDB;Android,3,1,5,4,1
+393,Sanjay Gupta,ECE,7.67,0,JavaScript;Power BI;TensorFlow,3,3,4,9,1
+394,Neha Kumar,MECH,9.37,0,Spring Boot;Flutter;System Design;JavaScript;Computer Networks;HTML;SQL;Problem Solving,3,1,2,2,1
+395,Ishaan Iyer,ECE,5.98,0,DBMS;REST API;Linux;Java;Data Analysis,3,1,3,6,0
+396,Aarav Nair,IT,5.77,2,REST API;Android;Scikit-learn;Statistics;AWS;Cybersecurity,5,2,3,10,1
+397,Rahul Joshi,MECH,7.41,0,Testing;Pandas;Algorithms;Deep Learning;OOP,3,2,2,1,1
+398,Ananya Singh,IT,8.56,0,Problem Solving;System Design;Kotlin;Testing;Data Structures,1,1,0,1,1
+399,Sanjay Singh,IT,7.4,0,Docker;Problem Solving;C++;Kotlin;NumPy;TensorFlow,1,2,3,9,1
+400,Ishaan Chatterjee,CSE,7.24,0,HTML;NumPy;Data Structures;Python;Leadership,4,2,5,5,1

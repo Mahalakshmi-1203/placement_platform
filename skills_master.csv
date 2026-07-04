@@ -1,0 +1,53 @@
+skill,category
+Python,Programming
+Java,Programming
+C++,Programming
+C,Programming
+JavaScript,Programming
+SQL,Database
+MySQL,Database
+MongoDB,Database
+PostgreSQL,Database
+Data Structures,CS Fundamentals
+Algorithms,CS Fundamentals
+Operating Systems,CS Fundamentals
+Computer Networks,CS Fundamentals
+DBMS,CS Fundamentals
+OOP,CS Fundamentals
+Machine Learning,Data Science
+Deep Learning,Data Science
+NLP,Data Science
+Data Analysis,Data Science
+Pandas,Data Science
+NumPy,Data Science
+Scikit-learn,Data Science
+TensorFlow,Data Science
+Power BI,Analytics
+Tableau,Analytics
+Excel,Analytics
+Statistics,Analytics
+React,Web Development
+Node.js,Web Development
+HTML,Web Development
+CSS,Web Development
+Django,Web Development
+Flask,Web Development
+REST API,Web Development
+Git,Tools
+Docker,DevOps
+Kubernetes,DevOps
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Linux,Tools
+Android,Mobile Development
+Kotlin,Mobile Development
+Flutter,Mobile Development
+System Design,CS Fundamentals
+Problem Solving,Aptitude
+Communication Skills,Soft Skills
+Leadership,Soft Skills
+Agile,Process
+Cybersecurity,Security
+Testing,Quality
+Spring Boot,Web Development
